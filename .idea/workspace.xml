@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7075493d-257c-496e-9362-3c52552fcf28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/myStrings/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myStrings/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myStrings/Test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
