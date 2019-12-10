@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7075493d-257c-496e-9362-3c52552fcf28" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ProjectId" id="1UiS4DsxhONjt0i5RURWuyp8HRo" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="myStrings" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestZipZap">
+    <configuration name="TestRepeatEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HwTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myStrings" />
+      <option name="MAIN_CLASS_NAME" value="myStrings.TestRepeatEnd" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRepeatEnd.nMoreThanLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HwTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myStrings" />
+      <option name="MAIN_CLASS_NAME" value="myStrings.TestRepeatEnd" />
+      <option name="METHOD_NAME" value="nMoreThanLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRepeatEnd.onNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HwTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myStrings" />
+      <option name="MAIN_CLASS_NAME" value="myStrings.TestRepeatEnd" />
+      <option name="METHOD_NAME" value="onNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZipZap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HwTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myStrings" />
+      <option name="MAIN_CLASS_NAME" value="myStrings.TestZipZap" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZipZap.onNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HwTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myStrings" />
+      <option name="MAIN_CLASS_NAME" value="myStrings.TestZipZap" />
+      <option name="METHOD_NAME" value="onNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestZipZap" />
+        <item itemvalue="JUnit.TestZipZap.onNull" />
+        <item itemvalue="JUnit.TestRepeatEnd" />
+        <item itemvalue="JUnit.TestRepeatEnd.nMoreThanLength" />
+        <item itemvalue="JUnit.TestRepeatEnd.onNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7075493d-257c-496e-9362-3c52552fcf28" name="Default Changelist" comment="" />
+      <created>1575837728977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575837728977</updated>
+    </task>
+    <servers />
+  </component>
+</project>
