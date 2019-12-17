@@ -6,7 +6,7 @@ import static org.junit.Assert.assertArrayEquals;
 
 public class TestFizzArray {
 
-    FizzArray fizzArray = new FizzArray();
+    private FizzArray fizzArray = new FizzArray();
 
 
     @Test

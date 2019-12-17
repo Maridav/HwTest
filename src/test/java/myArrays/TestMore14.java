@@ -9,7 +9,7 @@ import static org.junit.Assert.assertTrue;
 
 public class TestMore14 {
 
-    More14 more14 = new More14();
+    private More14 more14 = new More14();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

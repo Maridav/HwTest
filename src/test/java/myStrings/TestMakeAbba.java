@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestMakeAbba {
 
-    MakeAbba makeAbba = new MakeAbba();
+    private MakeAbba makeAbba = new MakeAbba();
 
     @Test
     public void onNull() {

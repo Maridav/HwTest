@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestCenteredAverage {
 
-    CenteredAverage centeredAverage = new CenteredAverage();
+    private CenteredAverage centeredAverage = new CenteredAverage();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

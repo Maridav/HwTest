@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestCountEvens {
 
-    CountEvens countEvens = new CountEvens();
+    private CountEvens countEvens = new CountEvens();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

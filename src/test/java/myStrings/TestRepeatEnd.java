@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestRepeatEnd {
 
-    RepeatEnd repeatEnd = new RepeatEnd();
+    private RepeatEnd repeatEnd = new RepeatEnd();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

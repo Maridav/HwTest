@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestZipZap {
 
-    ZipZap zipZap = new ZipZap();
+    private ZipZap zipZap = new ZipZap();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

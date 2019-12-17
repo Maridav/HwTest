@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestCountHi {
 
-    CountHi countHi = new CountHi();
+    private CountHi countHi = new CountHi();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

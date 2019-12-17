@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TestOneTwo {
 
-    OneTwo oneTwo = new OneTwo();
+    private OneTwo oneTwo = new OneTwo();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {

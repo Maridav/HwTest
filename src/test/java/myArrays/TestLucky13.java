@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
 
 public class TestLucky13 {
 
-    Lucky13 lucky13 = new Lucky13();
+    private Lucky13 lucky13 = new Lucky13();
 
     @Test(expected = NullPointerException.class)
     public void onNull() {
