@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7075493d-257c-496e-9362-3c52552fcf28" name="Default Changelist" comment="" />
+    <list default="true" id="7075493d-257c-496e-9362-3c52552fcf28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myArrays/TestCenteredAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myArrays/TestCenteredAverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myArrays/TestCountEvens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myArrays/TestCountEvens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myArrays/TestFizzArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myArrays/TestFizzArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myArrays/TestLucky13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myArrays/TestLucky13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myArrays/TestMore14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myArrays/TestMore14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myStrings/TestCountHi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myStrings/TestCountHi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myStrings/TestMakeAbba.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myStrings/TestMakeAbba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myStrings/TestOneTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myStrings/TestOneTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myStrings/TestRepeatEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myStrings/TestRepeatEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/myStrings/TestZipZap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/myStrings/TestZipZap.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575984753752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10 privates added">
+      <created>1576605225857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576605225857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing git" />
     <MESSAGE value="new tests added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new tests added" />
+    <MESSAGE value="10 privates added" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 privates added" />
   </component>
 </project>
